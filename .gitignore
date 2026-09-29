@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.claude/
+
+# данные конструктора, если запускать с AGENT_BUILDER_DATA внутри репозитория
+draft.json
+installed.json
+systems/
+backups/
+.server.json
+server.log*
